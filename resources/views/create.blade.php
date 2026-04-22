@@ -23,11 +23,6 @@
             </div>
 
             <div class="mb-3 w-25">
-                <label for="exampleFormControlInput1" class="form-label">Nomor Induk Dosen Nasional</label>
-                <input type="Text" name="NIDN" class="form-control" placeholder="Masukkan NIDN Anda">
-            </div>
-
-            <div class="mb-3 w-25">
                 <label for="exampleFormControlInput1" class="form-label">Tanggal Lahir</label>
                 <input type="Text" name="tanggal_lahir" class="form-control" placeholder="Masukkan Tanggal Lahir Anda">
             </div>
@@ -41,10 +36,6 @@
                 <label for="exampleFormControlTextarea1" class="form-label">Alamat</label>
                 <textarea class="form-control" rows="3" name="alamat" placeholder="Masukkan Alamat Anda"></textarea>
             </div>
-            
-            <div class="mb-3 w-25">
-
-
             
             <button class="btn btn-primary" type="submit" value="add">Submit</button>
             <button class="btn btn-danger" type="reset" value="clear">Clear</button>
